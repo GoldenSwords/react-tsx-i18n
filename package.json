@@ -1,6 +1,6 @@
 {
   "name": "react-tsx-i18n",
-  "version": "2.0.8",
+  "version": "2.0.9",
   "description": "i18n for tsx",
   "main": "dist/i18n.js",
   "files": [
@@ -12,6 +12,10 @@
     "i18n",
     "typescript"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:GoldenSwords/react-tsx-i18n.git"
+  },
   "author": "2432556082@qq.com",
   "license": "MIT",
   "dependencies": {
