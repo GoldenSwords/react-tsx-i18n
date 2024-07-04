@@ -1,0 +1,25 @@
+{
+  "name": "react-tsx-i18n",
+  "version": "2.0.8",
+  "description": "i18n for tsx",
+  "main": "dist/i18n.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {},
+  "types": "dist/types/i18n.d.ts",
+  "keywords": [
+    "i18n",
+    "typescript"
+  ],
+  "author": "2432556082@qq.com",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-tsx-i18n": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.66",
+    "typescript": "^5.2.2"
+  }
+}
